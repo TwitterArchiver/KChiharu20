@@ -1,0 +1,139 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1697181010914639872",
+    "conversation_id": "2077458524922339540",
+    "created_at": "2026-07-15T18:21:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T19:21:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077458524922339540"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2077458524922339540",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "没想到居然到发帖的上限了，就在这里简单说两句……感觉自从上课之后就差不多已经丧失那种像原来那样随时发推的能力了，现在的话因为前段时间刚上课总是因为玩推时间长耽误，就只能等在有大段时间的时候再去发，然后其他时间避免影响就完全不上这样，所以库存积压的就很多，真的是一个很难的事情了😿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697181010914639872",
+        "conversation_id": "2077458524922339540",
+        "created_at": "2026-07-15T18:21:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T19:21:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077458524922339540"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077458524922339540",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没想到居然到发帖的上限了，就在这里简单说两句……感觉自从上课之后就差不多已经丧失那种像原来那样随时发推的能力了，现在的话因为前段时间刚上课总是因为玩推时间长耽误，就只能等在有大段时间的时候再去发，然后其他时间避免影响就完全不上这样，所以库存积压的就很多，真的是一个很难的事情了😿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-31T09:34:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ES",
+              "full_name": "Chamartín de la Rosa, Madrid, Spain",
+              "geo": {
+                "coordinates": [
+                  -3.7,
+                  40.45
+                ],
+                "type": "Point"
+              },
+              "locality": "Chamartín de la Rosa",
+              "region": "Madrid",
+              "sub_region": "Provincia de Madrid"
+            }
+          ]
+        },
+        "description": "Plus Ultra ｜你好呀，我是Chiharu｜这里是逃生舱，处理紧急事务用，不常更新｜号主@LMegurine03｜前世@pNcYSzDUsc75790 @pNcYSzDUsc81146 @pNcYSzDUsc81147",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 48,
+                "username": "LMegurine03"
+              },
+              {
+                "end": 79,
+                "start": 63,
+                "username": "pNcYSzDUsc75790"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "pNcYSzDUsc81146"
+              },
+              {
+                "end": 113,
+                "start": 97,
+                "username": "pNcYSzDUsc81147"
+              }
+            ]
+          }
+        },
+        "id": "1697181010914639872",
+        "location": "Chamartin,Madrid ",
+        "name": "神楽坂 ちはる（Kagurazaka Chiharu）",
+        "pinned_tweet_id": "1962056142768730568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258360906997760/uzP5dyEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3398,
+          "following_count": 4867,
+          "like_count": 0,
+          "listed_count": 2,
+          "media_count": 40,
+          "tweet_count": 153
+        },
+        "url": "",
+        "username": "KChiharu20",
+        "verified": false
+      }
+    ]
+  }
+}

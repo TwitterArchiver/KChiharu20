@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "last_updated": "2026-07-29T09:29:22",
+  "html": {
+    "https://web.archive.org/web/20260715182124if_/https://twitter.com/KChiharu20/status/2077458524922339540": {
+      "status": "done",
+      "last_updated": "2026-07-29T09:29:20"
+    },
+    "https://web.archive.org/web/20260715183139if_/https://twitter.com/KChiharu20/status/2077461106319352307": {
+      "status": "done",
+      "last_updated": "2026-07-29T09:29:20"
+    },
+    "https://web.archive.org/web/20260715182146if_/https://twitter.com/KChiharu20/status/2077458617075441679": {
+      "status": "done",
+      "last_updated": "2026-07-29T09:29:20"
+    },
+    "https://web.archive.org/web/20260723123733if_/https://twitter.com/KChiharu20/status/2080271094855106861": {
+      "status": "done",
+      "last_updated": "2026-07-29T09:29:21"
+    }
+  },
+  "images": {
+    "https://pbs.twimg.com/media/HN5WWCwakAAEkZL.jpg": {
+      "status": "done",
+      "referenced_by": [
+        "20260723123733_twitter_com_KChiharu20_status_2080271094855106861.json"
+      ],
+      "last_updated": "2026-07-29T09:29:21"
+    },
+    "https://pbs.twimg.com/media/HN5WW2kbsAAJfSN.jpg": {
+      "status": "done",
+      "referenced_by": [
+        "20260723123733_twitter_com_KChiharu20_status_2080271094855106861.json"
+      ],
+      "last_updated": "2026-07-29T09:29:22"
+    }
+  },
+  "videos": {},
+  "avatars": {
+    "https://pbs.twimg.com/profile_images/2039258360906997760/uzP5dyEC_normal.jpg": {
+      "status": "unknown",
+      "referenced_by": [
+        "20260715182124_twitter_com_KChiharu20_status_2077458524922339540.json",
+        "20260715182146_twitter_com_KChiharu20_status_2077458617075441679.json",
+        "20260715183139_twitter_com_KChiharu20_status_2077461106319352307.json",
+        "20260723123733_twitter_com_KChiharu20_status_2080271094855106861.json"
+      ]
+    },
+    "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg": {
+      "status": "unknown",
+      "referenced_by": [
+        "20260723123733_twitter_com_KChiharu20_status_2080271094855106861.json"
+      ]
+    },
+    "https://pbs.twimg.com/profile_images/1920783097185923072/bUJzL9vB_normal.jpg": {
+      "status": "unknown",
+      "referenced_by": [
+        "20260723123733_twitter_com_KChiharu20_status_2080271094855106861.json"
+      ]
+    }
+  },
+  "media": {
+    "20260715182124_twitter_com_KChiharu20_status_2077458524922339540.json": {
+      "status": "unknown",
+      "depends_on": {
+        "images": [],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2039258360906997760/uzP5dyEC_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-07-29T09:29:21"
+    },
+    "20260715182146_twitter_com_KChiharu20_status_2077458617075441679.json": {
+      "status": "unknown",
+      "depends_on": {
+        "images": [],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2039258360906997760/uzP5dyEC_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-07-29T09:29:21"
+    },
+    "20260715183139_twitter_com_KChiharu20_status_2077461106319352307.json": {
+      "status": "unknown",
+      "depends_on": {
+        "images": [],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2039258360906997760/uzP5dyEC_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-07-29T09:29:21"
+    },
+    "20260723123733_twitter_com_KChiharu20_status_2080271094855106861.json": {
+      "status": "unknown",
+      "depends_on": {
+        "images": [
+          "https://pbs.twimg.com/media/HN5WWCwakAAEkZL.jpg",
+          "https://pbs.twimg.com/media/HN5WW2kbsAAJfSN.jpg"
+        ],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2039258360906997760/uzP5dyEC_normal.jpg",
+          "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+          "https://pbs.twimg.com/profile_images/1920783097185923072/bUJzL9vB_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-07-29T09:29:22"
+    }
+  }
+}
