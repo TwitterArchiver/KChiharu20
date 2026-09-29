@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-09-08T07:22:49",
+  "last_updated": "2026-09-29T19:11:12",
   "html": {
     "https://web.archive.org/web/20260715182124if_/https://twitter.com/KChiharu20/status/2077458524922339540": {
       "status": "done",
@@ -21,6 +21,12 @@
     "https://web.archive.org/web/20260831060220if_/https://twitter.com/KChiharu20/status/2094304762686824647": {
       "status": "done",
       "last_updated": "2026-09-08T07:22:24"
+    },
+    "https://web.archive.org/web/20260913174925if_/https://twitter.com/KChiharu20/status/2099193748190359969": {
+      "status": "failed",
+      "last_updated": "2026-09-29T19:11:12",
+      "last_reason": "HTML 下载失败：HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260913174925if_/https://twitter.com/KChiharu20/status/2099193748190359969",
+      "miss_count": 1
     }
   },
   "images": {
