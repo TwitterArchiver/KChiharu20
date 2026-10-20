@@ -1,7 +1,7 @@
 {
-  "name": "神楽坂 ちはる（Luka备用账号）",
+  "name": "神楽坂 ちはる（Kagurazaka Chiharu）",
   "username": "@KChiharu20",
-  "bio": "Plus Ultra ｜你好呀，我是Kagurazaka Chiharu｜这里是逃生舱，处理紧急事务用，不常更新｜号主@LMegurine03｜前世@pNcYSzDUsc75790 @pNcYSzDUsc81146 @pNcYSzDUsc81147",
+  "bio": "Plus Ultra ｜你好呀，我是Chiharu｜这里是Luka的逃生舱，处理紧急事务用，不常更新｜号主@LMegurine03｜前世@pNcYSzDUsc75790 @pNcYSzDUsc81146 @pNcYSzDUsc81147",
   "location": "Chamartin,Madrid ",
   "link": "",
   "avatar": "avatar/avatar.jpg",
@@ -10,23 +10,23 @@
   "bio_entities": {
     "mentions": [
       {
-        "end": 71,
-        "start": 59,
+        "end": 65,
+        "start": 53,
         "username": "LMegurine03"
       },
       {
-        "end": 90,
-        "start": 74,
+        "end": 84,
+        "start": 68,
         "username": "pNcYSzDUsc75790"
       },
       {
-        "end": 107,
-        "start": 91,
+        "end": 101,
+        "start": 85,
         "username": "pNcYSzDUsc81146"
       },
       {
-        "end": 124,
-        "start": 108,
+        "end": 118,
+        "start": 102,
         "username": "pNcYSzDUsc81147"
       }
     ]
